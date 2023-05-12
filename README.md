@@ -42,3 +42,21 @@ dados_ts_hiring.py: script python que lê os dados do arquivo JSON de startups d
 
 docker-compose.yml: script com conexão com o banco de dados criado 'how_postgres'
 
+## Comprovações
+
+Estrutura do banco de dados, com diferentes schemas e respectivas tabelas para cada uma das fontes utilizadas no projeto:
+
+![image](https://github.com/iararosso/bootcamp_desafio1/assets/101842238/983b8846-7e3f-4836-ad68-99001e37af35)
+
+
+Consulta na tabela ts_hiring.companys
+
+![image](https://github.com/iararosso/bootcamp_desafio1/assets/101842238/2ae4ca71-b17b-4e52-a1ba-0d8646174614)
+
+Consulta na tabela nba.payroll
+
+![image](https://github.com/iararosso/bootcamp_desafio1/assets/101842238/cf54ab46-dbe0-42eb-8a08-74d045735903)
+
+
+
+
